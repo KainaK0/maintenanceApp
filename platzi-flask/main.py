@@ -1,6 +1,8 @@
-from flask import Flask, request, make_response, redirect
+from flask import Flask, request, make_response, redirect,render_template
 
 app = Flask(__name__)
+
+todos = ['Todo 1', 'Todo 2', 'Todo 3']
 
 @app.route('/')
 def index():
@@ -14,4 +16,12 @@ def index():
 @app.route('/hello')
 def hello():
     user_ip = request.cookies.get('user_ip')
-    return 'Hello World Platzi, tu IP es {}'.format(user_ip )
+    context = {
+        'user_ip' : user_ip,
+        'todos' : todos,
+    }
+
+    return render_template('hello.html', **context)
+
+# if __name__ = '__main__':
+#     app.run(debug=True)
