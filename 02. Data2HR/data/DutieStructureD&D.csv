@@ -1,4 +1,4 @@
-﻿key_dutie,Primary task detail activity,Maintenance type,Specialist,Constraint,Time,Amount Craft,Estrategy,Unidad Periodo
+﻿key_dutie,Primary task detail activity,Maintenance type,Specialist,Constraint,Time,Amount Craft,Frequency,Unidad Periodo
 2111-FE-201|01-01-01,"Inspeccionar conexión a tierra, cables de alimentación, caja de conexiones, pernos de anclaje, carcasa del motor, tapa y ventilador, tuberías flexibles conduit, verificar pintura de motor, inspeccionar fugas de lubricante en rodamientos, síntomas de sobrecalentamiento en carcaza y caja de conexiones. 
 De ser necesario realizar la actividad de limpieza del motor con caudal de aire. 
 Registrar los parámetros eléctricos del motor en el formato establecido.",INSP,TEC-ELE,MAR,1,2,1,M
