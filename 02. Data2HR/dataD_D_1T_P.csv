@@ -447,7 +447,7 @@
 445,4331-CP-40677|02-02-01,Monitoreo de condición por vibraciones.,PRED,TEC-PRD,DET,1.0,2,3.0,M,2021-04-01,2.0,3M
 446,4331-CP-40677|02-02-02,Monitoreo de condición por termografía.,PRED,TEC-PRD,DET,1.0,2,3.0,M,2021-04-01,2.0,3M
 447,2281-FA-206|02-01-05,Monitoreo de vibración y temperatura.,PRED,TEC-PRD,MAR,2.0,2,2000.0,H,2021-04-01,4.0,2000H
-448,2111-GZ-201|01-01-07,Ensayo de tintes penetrantes.,PRED,TEC-PRD,DET,4.0,2,4000.0,h,2021-04-01,8.0,4000h
+448,2111-GZ-201|01-01-07,Ensayo de tintes penetrantes.,PRED,TEC-PRD,DET,4.0,2,4000.0,H,2021-04-01,8.0,4000H
 449,3121-FA-301|02-01-05,Monitoreo de vibración y temperatura.,PRED,TEC-PRD,MAR,2.0,2,2000.0,H,2021-04-01,4.0,2000H
 450,3134-BH-301|02-02-05,Monitoreo de vibración.,PRED,TEC-PRD,MAR,0.5,1,1500.0,H,2021-04-01,0.5,1500H
 451,3134-BH-301|02-02-06,Monitoreo de termografía.,PRED,TEC-PRD,MAR,0.5,1,1500.0,H,2021-04-01,0.5,1500H

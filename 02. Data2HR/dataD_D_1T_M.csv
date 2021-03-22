@@ -795,10 +795,10 @@ uniformemente. Esto se logra apretando los pernos en varias etapas, en cada etap
 791,4533-PU-420|01-02-02,Lubricar el acople.,LUBR,TEC-MEC,MAR,0.25,2,2000.0,H,2021-04-01,0.5,2000H
 792,4533-PU-420|02-01-01,Inspección del desgaste en el impulsor.,INSP,TEC-MEC,DET,2.0,2,4000.0,H,2021-04-01,4.0,4000H
 793,4533-PU-420|02-02-01,Inspección del desgaste y picaduras en la parte interior de la carcasa.,INSP,TEC-MEC,DET,2.0,2,4000.0,H,2021-04-01,4.0,4000H
-794,4533-PU-420|02-03-01,"Inspección de fugas de lubricante, temperatura, elementos de unión, ruido y vibración inusual.",INSP,TEC-MEC,MAR,0.25,2,660.0,h,2021-04-01,0.5,660h
+794,4533-PU-420|02-03-01,"Inspección de fugas de lubricante, temperatura, elementos de unión, ruido y vibración inusual.",INSP,TEC-MEC,MAR,0.25,2,660.0,H,2021-04-01,0.5,660H
 795,4533-PU-420|02-03-02,Lubricación de los rodamientos.,LUBR,TEC-MEC,MAR,0.5,2,2000.0,H,2021-04-01,1.0,2000H
 796,4533-PU-420|02-04-01,Inspección dimensional del eje para detrminar posible desgaste en puntos de rozamiento como apoyo de rodamientos y sellos.,INSP,TEC-MEC,DET,4.0,2,4000.0,H,2021-04-01,8.0,4000H
-797,4533-PU-420|02-05-01,"Inspección de fugas por el sello, controlar nivel de goteo.",INSP,TEC-MEC,MAR,0.25,1,660.0,h,2021-04-01,0.25,660h
+797,4533-PU-420|02-05-01,"Inspección de fugas por el sello, controlar nivel de goteo.",INSP,TEC-MEC,MAR,0.25,1,660.0,H,2021-04-01,0.25,660H
 798,4533-PU-420|02-05-02,"Inspección del desgaste del anillo difusor, cambiar de ser necesario.",INSP,TEC-MEC,DET,1.0,2,4000.0,H,2021-04-01,2.0,4000H
 799,3335-PU-396|01-02-01,"Inspección mecánica, verificación solturas en la base y presencia de vibración.",INSP,TEC-MEC,MAR,0.25,1,660.0,H,2021-04-01,0.25,660H
 800,3335-PU-396|01-02-02,Monitoreos de temperatura.,INSP,TEC-MEC,MAR,0.5,1,660.0,H,2021-04-01,0.5,660H
@@ -1924,10 +1924,10 @@ mantenimiento general al motor diesel, verificando el estado de los componentes 
 1911,3335-HX-304|01-02-02,Inspección interna de placas y empaquetadura.,INSP,TEC-MEC,DET,1.5,2,4000.0,H,2021-04-01,3.0,4000H
 1912,3335-HX-304|01-02-03,Limpieza de placas.,PREV,TEC-MEC,DET,3.0,2,4000.0,H,2021-04-01,6.0,4000H
 1913,3335-HX-304|01-02-04,Cambio de empaquetaduras.,PREV,TEC-MEC,DET,3.0,2,8000.0,H,2021-04-01,6.0,8000H
-1914,2284-SB-202|01-01-01,"Inspección de elementos de unión en estructuras, lineas de ingreso y descarga.",INSP,TEC-MEC,MAR,0.25,2,4000.0,h,2021-04-01,0.5,4000h
+1914,2284-SB-202|01-01-01,"Inspección de elementos de unión en estructuras, lineas de ingreso y descarga.",INSP,TEC-MEC,MAR,0.25,2,4000.0,H,2021-04-01,0.5,4000H
 1915,2284-SB-202|01-01-02,"Inspección de fugas en estructura, linea de ingreso y descarga.",INSP,TEC-MEC,MAR,0.25,2,660.0,H,2021-04-01,0.5,660H
 1916,2284-SB-202|01-01-03,Inspección internas de toberas de lavado.,INSP,TEC-MEC,DET,2.0,2,660.0,H,2021-04-01,4.0,660H
-1917,2284-SB-202|01-01-05,Cambio de juntas en lineas de ingreso y descarga.,PREV,TEC-MEC,DET,6.0,2,4000.0,h,2021-04-01,12.0,4000h
+1917,2284-SB-202|01-01-05,Cambio de juntas en lineas de ingreso y descarga.,PREV,TEC-MEC,DET,6.0,2,4000.0,H,2021-04-01,12.0,4000H
 1918,2284-SB-202|01-01-06,Mantenimiento general de srubber.,PREV,TEC-MEC,DET,6.0,2,8000.0,H,2021-04-01,12.0,8000H
 1919,2287-FE-212|01-03-01,"Inspección de fugas, estado del aceite y elementos de unión del reductor.",INSP,TEC-MEC,MAR,0.5,1,660.0,H,2021-04-01,0.5,660H
 1920,2287-FE-212|01-03-02,"Inspección de desgaste de los elementos internos (sellos, rodamientos, engranajes).",INSP,TEC-MEC,DET,2.0,1,4000.0,H,2021-04-01,2.0,4000H
@@ -2043,14 +2043,14 @@ mantenimiento general al motor diesel, verificando el estado de los componentes 
 2030,3241-PU-737|02-04-01,"Verificar hermeticidad en sello de bomba, de presentar fuga realizar el cambio de sellos.",INSP,TEC-MEC,DET,0.5,1,660.0,H,2021-04-01,0.5,660H
 2031,3332-HX-301|01-01-01,Inspección de fugas ingreso y descarga.,INSP,TEC-MEC,MAR,0.25,2,660.0,H,2021-04-01,0.5,660H
 2032,3332-HX-301|01-01-02,Inspección de barras sustentadora y guía.,INSP,TEC-MEC,MAR,0.25,2,660.0,H,2021-04-01,0.5,660H
-2033,3332-HX-301|01-01-03,Inspección de ajuste de pernos tensores.,INSP,TEC-MEC,DET,0.25,2,2000.0,h,2021-04-01,0.5,2000h
-2034,3332-HX-301|01-01-04,Inspección interna de ingreso y descarga y empaquetaduras.,INSP,TEC-MEC,DET,0.25,2,4000.0,h,2021-04-01,0.5,4000h
+2033,3332-HX-301|01-01-03,Inspección de ajuste de pernos tensores.,INSP,TEC-MEC,DET,0.25,2,2000.0,H,2021-04-01,0.5,2000H
+2034,3332-HX-301|01-01-04,Inspección interna de ingreso y descarga y empaquetaduras.,INSP,TEC-MEC,DET,0.25,2,4000.0,H,2021-04-01,0.5,4000H
 2035,3332-HX-301|01-01-05,Cambio de empaquetaduras de linea de ingreso y descarga.,PREV,TEC-MEC,DET,3.0,2,8000.0,H,2021-04-01,6.0,8000H
-2036,3332-HX-301|01-01-06,Lubricación de barras sustentadora y guía.,LUBR,TEC-MEC,DET,2.0,2,4000.0,h,2021-04-01,4.0,4000h
-2037,3332-HX-301|01-01-07,Lubricación de pernos tensores.,LUBR,TEC-MEC,DET,1.5,2,4000.0,h,2021-04-01,3.0,4000h
+2036,3332-HX-301|01-01-06,Lubricación de barras sustentadora y guía.,LUBR,TEC-MEC,DET,2.0,2,4000.0,H,2021-04-01,4.0,4000H
+2037,3332-HX-301|01-01-07,Lubricación de pernos tensores.,LUBR,TEC-MEC,DET,1.5,2,4000.0,H,2021-04-01,3.0,4000H
 2038,3332-HX-301|01-02-01,Inspección de fugas por placas.,INSP,TEC-MEC,MAR,0.25,2,660.0,H,2021-04-01,0.5,660H
-2039,3332-HX-301|01-02-02,Inspección interna de placas y empaquetadura.,INSP,TEC-MEC,DET,1.5,2,4000.0,h,2021-04-01,3.0,4000h
-2040,3332-HX-301|01-02-03,Limpieza de placas.,PREV,TEC-MEC,DET,3.0,2,4000.0,h,2021-04-01,6.0,4000h
+2039,3332-HX-301|01-02-02,Inspección interna de placas y empaquetadura.,INSP,TEC-MEC,DET,1.5,2,4000.0,H,2021-04-01,3.0,4000H
+2040,3332-HX-301|01-02-03,Limpieza de placas.,PREV,TEC-MEC,DET,3.0,2,4000.0,H,2021-04-01,6.0,4000H
 2041,3332-HX-301|01-02-04,Cambio de empaquetaduras.,PREV,TEC-MEC,DET,3.0,2,8000.0,H,2021-04-01,6.0,8000H
 2042,3232-CV-315|01-07-01,Inspección de elementos de unión y protección del acople.,INSP,TEC-MEC,MAR,0.25,1,165.0,H,2021-04-01,0.25,165H
 2043,3232-CV-315|01-07-02,Verificar el desgaste del disco de freno y de las pastillas de freno.,INSP,TEC-MEC,MAR,0.25,1,165.0,H,2021-04-01,0.25,165H
@@ -3108,10 +3108,10 @@ Tomar medidas del espesor del revestimiento.",INSP,TEC-MEC,DET,0.25,1,2000.0,H,2
 3083,3335-XM-343|01-01-10,"Realizar el la inspección del intercambiador de calor, verificar estado de las conexiones.",PREV,TEC-MEC,DET,3.0,2,165.0,H,2021-04-01,6.0,165H
 3084,3335-XM-348|01-01-01,"Verificar funcionamiento, presiones y/o fugas en el sistema neumatico y componentes. Verificar lubricación y/o fugas de grasa en puntos articulados, de ser necesario lubricar puntos de engrase en articulaciones. Verificar ruido y/o vibración en condiciones normales de componentes de transmisión. Verificar condición de estructura y pernos de anclaje.",INSP,TEC-MEC,MAR,0.25,1,165.0,H,2021-04-01,0.25,165H
 3085,3335-XM-349|01-01-01,"Verificar funcionamiento, presiones y/o fugas en el sistema neumatico y componentes. Verificar lubricación y/o fugas de grasa en puntos articulados, de ser necesario lubricar puntos de engrase en articulaciones. Verificar ruido y/o vibración en condiciones normales de componentes de transmisión. Verificar condición de estructura y pernos de anclaje.",INSP,TEC-MEC,MAR,0.25,1,165.0,H,2021-04-01,0.25,165H
-3086,3335-XM-350|01-01-01,"Verificar funcionamiento, presiones y/o fugas en el sistema neumatico y componentes. Verificar lubricación y/o fugas de grasa en puntos articulados, de ser necesario lubricar puntos de engrase en articulaciones. Verificar ruido y/o vibración en condiciones normales de componentes de transmisión. Verificar condición de estructura y pernos de anclaje.",INSP,TEC-MEC,MAR,0.25,1,165.0,h,2021-04-01,0.25,165h
-3087,3335-XM-350|01-02-01,"Verificar condición de bases y estructura. Verificar solturas en elementos de unión y anclajes, de ser necesario limpiar la parte externa del equipo, arenar y/o pintar la estructura para evitar corrosión y desgastes externos.",INSP,TEC-MEC,MAR,0.25,1,165.0,h,2021-04-01,0.25,165h
-3088,3335-XM-352|01-01-01,"Verificar funcionamiento, presiones y/o fugas en el sistema neumatico y componentes. Verificar lubricación y/o fugas de grasa en puntos articulados, de ser necesario lubricar puntos de engrase en articulaciones. Verificar ruido y/o vibración en condiciones normales de componentes de transmisión. Verificar condición de estructura y pernos de anclaje.",INSP,TEC-MEC,MAR,0.5,2,165.0,h,2021-04-01,1.0,165h
-3089,3335-XM-352|01-02-01,Verificar funcionamiento del conjunto de cepillos giratorios lados derecho e izquierdo. Verificar el funcionamiento del conjunto de prensa hidraúlica. Verificar la condición y funcionamiento del conjunto de topes. Verificar el funcionamiento de suministro y retorno del sistema hidraúlico y componentes. Verificar condición de bases y estructura. Verificar elementos de unión y anclajes.,INSP,TEC-MEC,MAR,0.25,1,165.0,h,2021-04-01,0.25,165h
+3086,3335-XM-350|01-01-01,"Verificar funcionamiento, presiones y/o fugas en el sistema neumatico y componentes. Verificar lubricación y/o fugas de grasa en puntos articulados, de ser necesario lubricar puntos de engrase en articulaciones. Verificar ruido y/o vibración en condiciones normales de componentes de transmisión. Verificar condición de estructura y pernos de anclaje.",INSP,TEC-MEC,MAR,0.25,1,165.0,H,2021-04-01,0.25,165H
+3087,3335-XM-350|01-02-01,"Verificar condición de bases y estructura. Verificar solturas en elementos de unión y anclajes, de ser necesario limpiar la parte externa del equipo, arenar y/o pintar la estructura para evitar corrosión y desgastes externos.",INSP,TEC-MEC,MAR,0.25,1,165.0,H,2021-04-01,0.25,165H
+3088,3335-XM-352|01-01-01,"Verificar funcionamiento, presiones y/o fugas en el sistema neumatico y componentes. Verificar lubricación y/o fugas de grasa en puntos articulados, de ser necesario lubricar puntos de engrase en articulaciones. Verificar ruido y/o vibración en condiciones normales de componentes de transmisión. Verificar condición de estructura y pernos de anclaje.",INSP,TEC-MEC,MAR,0.5,2,165.0,H,2021-04-01,1.0,165H
+3089,3335-XM-352|01-02-01,Verificar funcionamiento del conjunto de cepillos giratorios lados derecho e izquierdo. Verificar el funcionamiento del conjunto de prensa hidraúlica. Verificar la condición y funcionamiento del conjunto de topes. Verificar el funcionamiento de suministro y retorno del sistema hidraúlico y componentes. Verificar condición de bases y estructura. Verificar elementos de unión y anclajes.,INSP,TEC-MEC,MAR,0.25,1,165.0,H,2021-04-01,0.25,165H
 3090,2112-CV-201|01-07-01,Inspección de elementos de unión y protección del acople.,INSP,TEC-MEC,MAR,0.25,1,165.0,H,2021-04-01,0.25,165H
 3091,2112-CV-201|01-07-02,Verificar el desgaste del disco de freno y de las pastillas de freno.,INSP,TEC-MEC,MAR,0.25,1,165.0,H,2021-04-01,0.25,165H
 3092,2112-CV-201|01-08-01,Inspección de elementos de unión y protección del acople.,INSP,TEC-MEC,MAR,0.25,1,165.0,H,2021-04-01,0.25,165H
@@ -3165,7 +3165,7 @@ Tomar medidas del espesor del revestimiento.",INSP,TEC-MEC,DET,0.25,1,2000.0,H,2
 3136,3251-PU-323|02-01-01,"Verificar el ajuste entre la placa lateral y el impulsor, verificar fuga por los pernos de unión y/o juntas de la carcasa, verificar condición de pernos de unión, verificar desgaste y/o corrosión de la carcasa.",INSP,TEC-MEC,MAR,0.25,2,660.0,H,2021-04-01,0.5,660H
 3137,3251-PU-323|02-01-02,"Verificar los parámetros de operación, de ser necesario algún desvio cambiar los componetes internos.",INSP,TEC-MEC,DET,0.5,2,8000.0,H,2021-04-01,1.0,8000H
 3138,3251-PU-323|02-02-01,"Verificar que no existan ruidos ni vibraciones inusuales, verificar la temperatura no exceda 80°C, verificar fugas de grasa por los sellos y/o juntas.",INSP,TEC-MEC,MAR,0.25,1,660.0,H,2021-04-01,0.25,660H
-3139,3251-PU-323|02-02-06,"Para una lubricación inicial, utilizar la bomba de grasa y suministrar 610 Gr. (Grasa NGLI 2 - MobilGrease XHP 222, lado impulsor 220 Gr. y lado acople 390 Gr.). Posteriormente para otras frecuencias de lubricaciones, utilizar la bomba de grasa y suministrar 100 Gr. (Grasa NGLI 2 - MobilGrease XHP 222 Gr. Lado impulsor 40 Gr. y Lado acople 60 Gr.).",LUBR,TEC-MEC,MAR,0.5,2,12000.0,h,2021-04-01,1.0,12000h
+3139,3251-PU-323|02-02-06,"Para una lubricación inicial, utilizar la bomba de grasa y suministrar 610 Gr. (Grasa NGLI 2 - MobilGrease XHP 222, lado impulsor 220 Gr. y lado acople 390 Gr.). Posteriormente para otras frecuencias de lubricaciones, utilizar la bomba de grasa y suministrar 100 Gr. (Grasa NGLI 2 - MobilGrease XHP 222 Gr. Lado impulsor 40 Gr. y Lado acople 60 Gr.).",LUBR,TEC-MEC,MAR,0.5,2,12000.0,H,2021-04-01,1.0,12000H
 3140,3251-PU-323|02-03-01,"Verificar fuga por sello mecánico, de ser necesario realizar el cambio del kit de reparación o el cambio total del sello.",INSP,TEC-MEC,MAR,0.25,2,660.0,H,2021-04-01,0.5,660H
 3141,2135-BH-204|01-01-01,Las canastillas de las mangas.,INSP,TEC-MEC,DET,2.0,2,4000.0,H,2021-04-01,4.0,4000H
 3142,2135-BH-204|01-02-01,Inspeccionar desgaste y picaduras en la placa.,INSP,TEC-MEC,DET,1.0,2,660.0,H,2021-04-01,2.0,660H
